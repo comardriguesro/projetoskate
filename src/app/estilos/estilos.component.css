@@ -1,0 +1,65 @@
+img{
+  padding-top:70px;
+  width: 250px;
+  height: 180px;
+  padding-left: 190px;
+}
+
+th{
+padding-left: 200px;
+}
+
+.breadcrumb #estilos-title {
+position: absolute;
+left: 73px;
+top: 2px;
+font-size: 12.5pt;
+
+}
+
+.breadcrumb {
+position: absolute;
+top: 20px;
+left: 200px;
+border-radius: 5px;
+box-shadow:  20px 30px 9px rgba(204, 201, 209, 0.77);
+width: 270px;
+}
+
+.breadcrumb ul li{
+position: absolute;
+display: inline-block;
+margin-left: 6%;
+top: 0;
+}
+
+.breadcrumb h2{
+font-size: 10px;
+text-decoration: none;
+color:#3a3a3a;
+margin-left: 0px;
+margin-top: 4px;
+}
+
+.breadcrumb a{
+text-decoration: none;
+}
+.estilos img{
+margin-top: 40px;
+width: 170px;
+height: 170px;
+}
+.breadcrumb a h4:hover{
+text-decoration: underline;
+color: blue;
+}
+
+span  {
+position: absolute;
+left: 67px;
+top: 28px;
+}
+
+.breadcrumb a h4{
+font-size: 20px;
+}
